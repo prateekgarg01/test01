@@ -1,12 +1,12 @@
 ### Professional Summary 
 Dedicated and skilled IT professional with 9 + years of experience in designing, implementing, and managing Virtual environments. Proven ability to optimize system performance, ensure reliability, and enhance security through VMware technologies.
 ### Areas of Expertise
-•	VMware vSphere (ESXi, vCenter Server)	
-•	Migration (VMware Cross vCenter, Platespin)	
-•	VMware SRM, Converter	
-•	Automation (PowerShell, PowerCLI)
-•	Cisco Intersight for Cisco UCS and Blade Servers
-•	Cisco Hyperflex
+•	VMware vSphere (ESXi, vCenter Server)	<br>
+•	Migration (VMware Cross vCenter, Platespin)	<br>
+•	VMware SRM, Converter	<br>
+•	Automation (PowerShell, PowerCLI)	<br>
+•	Cisco Intersight for Cisco UCS and Blade Servers	<br>
+•	Cisco Hyperflex	<br>
 •	Nutanix	 
 
 ### Key Achievements
