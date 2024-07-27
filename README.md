@@ -18,13 +18,13 @@ Dedicated and skilled IT professional with 9 + years of experience in designing,
 **•**	Management of Morpheus (Hybrid Cloud Management) Software and Automation through it.	<br>
 
 ### Key Achievements
-**•**	Saved 5 million Dollars for one of the Client by automating manual work using PowerShell which reduces ticket count for one of the application by 0. Received Award for the same by the Client as well as Employer.
-**•**	By Automating VMware Tools upgrade of several thousands of Servers as well as VDIs with no reboot thus Saved Several Million Dollars of efforts as well as Downtime of Critical Applications.
+**•**	Saved 5 million Dollars for one of the Client by automating manual work using PowerShell which reduces ticket count for one of the application by 0. Received Award for the same by the Client as well as Employer.	<br>
+**•**	By Automating VMware Tools upgrade of several thousands of Servers as well as VDIs with no reboot thus Saved Several Million Dollars of efforts as well as Downtime of Critical Applications.	<br>
 
 ### Certification
-**•**	VMware Certified Professional – Data Center Virtualization
-**•**	Implementing Microsoft Azure Infrastructure Solutions
-**•**	DevOps Foundation certification
+**•**	VMware Certified Professional – Data Center Virtualization.	<br>
+**•**	Implementing Microsoft Azure Infrastructure Solutions.	<br>
+**•**	DevOps Foundation certification.
 
 ### Professional Experience
 **•**	**TCS** (2015-Current) - 9 + Years of experience in Configuring and Managing VMware, Citrix and Automation Infra for multiple clients.
