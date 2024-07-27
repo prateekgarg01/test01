@@ -24,7 +24,7 @@ Dedicated and skilled IT professional with 9 + years of experience in designing,
 ### Certification
 **•**	VMware Certified Professional – Data Center Virtualization.	<br>
 **•**	Implementing Microsoft Azure Infrastructure Solutions.	<br>
-**•**	DevOps Foundation certification.
+**•**	DevOps Foundation Certification.	<br>
 
 ### Professional Experience
 **•**	**TCS** (2015-Current) - 9 + Years of experience in Configuring and Managing VMware, Citrix and Automation Infra for multiple clients.
